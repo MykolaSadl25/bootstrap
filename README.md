@@ -1,2 +1,2 @@
-# bootstrap
+# bootstrap DEMO
 bootstrap-hw
